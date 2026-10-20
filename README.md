@@ -1,24 +1,23 @@
 # madlibsCSA
 
-### **1\. The Expanded 10-Input Halloween Story**
+### **1\. The Halloween Story Template**
 
-&gt; *"On a spooky Halloween night, a* **[spookyAdjective]** **[monsterName]** *lurked near the abandoned* **[hauntedPlace]** *. Suddenly,* **[ghostCount]** *ghosts appeared and* **[spookyVerb]** *through the mist while echoing a* **[spookySound]** *! To banish them, we bought* **$[candyCost]** *worth of* **[favoriteCandy]** *and tossed it along with a pinch of* **[potionIngredient]** *directly into a glowing* **[magicalItem]** *."*
+&gt; *"On a spooky Halloween night, a* **[spookyAdjective]** **[monsterName]** *lurked in the dark. Near the abandoned* **[hauntedPlace]** *,* **[ghostCount]** *ghosts suddenly emerged from the fog! They* **[spookyVerb]** *loudly while demanding* **$[candyCost]** *worth of treats. We quickly threw a handful of* **[favoriteCandy]** *into a glowing* **[magicalItem]** *to escape!"*
 
 ---
 
-### **2\. Input &amp; Variable Assignment Across All 5 Members**
+### **2\. Input &amp; Variable Assignment Across All Team Members**
 
-Each member is responsible for prompting, storing, and commenting on 2 inputs using proper **camelCase** naming[1]:
+Each coding member is responsible for creating their own class file, prompting, capturing, and writing code comments for 2 inputs using proper **camelCase** variable naming[1]:
 
-| Team Member        | Variable Name      | Data Type  | Input Prompt Example                          | Example Input  |
-| ------------------ | ------------------ | ---------- | --------------------------------------------- | -------------- |
-| **Member 1 (You)** | `spookyAdjective`  | `String`   | `"Enter a spooky adjective: "`                | *"creepy"*     |
-|                    | `monsterName`      | `String`   | `"Enter a monster name: "`                    | *"Werewolf"*   |
-| **Member 2**       | `hauntedPlace`     | `String`   | `"Enter a haunted location: "`                | *"graveyard"*  |
-|                    | `ghostCount`       | **int**    | `"Enter an integer number of ghosts: "`       | `13`           |
-| **Member 3**       | `spookyVerb`       | `String`   | `"Enter a spooky action verb (past tense): "` | *"shrieked"*   |
-|                    | `candyCost`        | **double** | `"Enter a decimal candy cost (e.g., 6.66): "` | `6.66`         |
-| **Member 4**       | `favoriteCandy`    | `String`   | `"Enter a type of candy: "`                   | *"candy corn"* |
-|                    | `magicalItem`      | `String`   | `"Enter a magical object: "`                  | *"cauldron"*   |
-| **Member 5**       | `spookySound`      | `String`   | `"Enter a spooky sound effect: "`             | *"howl"*       |
-|                    | `potionIngredient` | `String`   | `"Enter a strange potion ingredient: "`       | *"bat wing"*   |
+| Team Member                    | Assigned Class / File | Variable Name                          | Data Type  | Input Prompt Example                                                                                                | Example Input  |
+| ------------------------------ | --------------------- | -------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **Member 1 (You - Team Lead)** | `Runner.java`         | *(Runner /* *main* *method)*[1][2] | N/A        | *Orchestrates class calls, maintains* *TODO.md* *Kanban board, and creates* *README.md* *milestone chart*[3][4] | N/A            |
+| **Member 2**                   | `MemberOne.java`      | `spookyAdjective`                      | `String`   | `"Enter a spooky adjective: "`                                                                                      | *"creepy"*     |
+|                                |                       | `monsterName`                          | `String`   | `"Enter a monster name: "`                                                                                          | *"Werewolf"*   |
+| **Member 3**                   | `MemberTwo.java`      | `hauntedPlace`                         | `String`   | `"Enter a haunted location: "`                                                                                      | *"graveyard"*  |
+|                                |                       | `ghostCount`                           | **int**    | `"Enter an integer number of ghosts: "`                                                                             | `13`           |
+| **Member 4**                   | `MemberThree.java`    | `spookyVerb`                           | `String`   | `"Enter a spooky action verb (past tense): "`                                                                       | *"shrieked"*   |
+|                                |                       | `candyCost`                            | **double** | `"Enter a decimal candy cost (e.g., 6.66): "`                                                                       | `6.66`         |
+| **Member 5**                   | `MemberFour.java`     | `favoriteCandy`                        | `String`   | `"Enter a type of candy: "`                                                                                         | *"candy corn"* |
+|                                |                       | `magicalItem`                          | `String`   | `"Enter a magical object: "`                                                                                        | *"cauldron"*   |
