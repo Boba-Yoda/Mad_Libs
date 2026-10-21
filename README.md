@@ -34,7 +34,7 @@ Each coding member is responsible for creating their own class file, prompting, 
 | Milestone / Feature Description | Assigned Member | Estimated Time | Actual Time | Notes &amp; Discrepancies |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Project Setup &amp; Architecture** (Repo setup, `Runner.java`, `TODO.md`) | Team Lead | 20 mins | 25 mins | Spent extra time structuring modular class calls and task board. |
-| **2. Story Segment 1** (`Kaashvi.java` inputs &amp; comments) | Kaashvi Sharma | 15 mins | 15 mins | Completed on schedule with no syntax errors. |
+| **2. Story Segment 1** (`Kaashvi.java` inputs &amp; comments) | Kaashvi Sharma | 15 mins | 15 mins | Didn't use public static void print when coding my section |
 | **3. Story Segment 2** (`Jiya.java` `int` inputs &amp; comments) | Jiya Arora | 15 mins | 20 mins | Needed slight adjustment when parsing integer input buffers. |
 | **4. Story Segment 3** (`Nihtahli.java` `double` inputs &amp; comments) | Nihtahli Anand | 15 mins | 15 mins | Floating-point currency concatenated cleanly. |
 | **5. Story Segment 4** (`Pranika.java` inputs &amp; comments) | Pranika Keerti | 15 mins | 15 mins | Story resolution logic integrated smoothly. |
