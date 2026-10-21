@@ -1,8 +1,10 @@
 # README
 
-\### 📋 Project Management &amp; Team Resources 
-\* 👉 [Click here to view our Team TODO &amp; Kanban Board](TODO.md) 
-\* 👉 [Click here to view our Debugging &amp; Code Fix Guide](FIX\_MISTAKES.md)
+
+### 📋 Project Management &amp; Team Resources 
+- 👉 [Click here to view our Team TODO &amp; Kanban Board](TODO.md)  
+
+- 👉 [Click here to view our Debugging &amp; Code Fix Guide](FIX\_MISTAKES.md)
 
 ### **1\. The Halloween Story Template**
 
