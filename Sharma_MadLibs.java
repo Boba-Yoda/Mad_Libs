@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Sharma_MadLibs {
 
-    public static void main(String[] args) {
+    public static void print() {
         Scanner scanner = new Scanner(System.in);
 
         // Member 2 Inputs
