@@ -40,3 +40,7 @@ Each coding member is responsible for creating their own class file, prompting, 
 | **5. Story Segment 4** (`Pranika.java` inputs &amp; comments) | Pranika Keerti | 15 mins | 15 mins | Story resolution logic integrated smoothly. |
 | **6. Integration &amp; Testing** (Compiling class calls in `Runner.java`) | Team Lead &amp; All | 20 mins | 25 mins | Tested incrementally; resolved a minor method signature mismatch. |
 | **7. Final Documentation** (Terminal screenshots &amp; final `README.md`) | Team Lead | 15 mins | 15 mins | Screenshots taken directly from computer terminal output. |
+
+## Screenshot of Functionality
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/e5643446-f6ed-4ab6-a2b2-638f96a1c90d" />
+
