@@ -37,6 +37,6 @@ Each coding member is responsible for creating their own class file, prompting, 
 | **2. Story Segment 1** (`Kaashvi.java` inputs &amp; comments) | Kaashvi Sharma | 15 mins | 15 mins | Completed on schedule with no syntax errors. |
 | **3. Story Segment 2** (`Jiya.java` `int` inputs &amp; comments) | Jiya Arora | 15 mins | 20 mins | Needed slight adjustment when parsing integer input buffers. |
 | **4. Story Segment 3** (`Nihtahli.java` `double` inputs &amp; comments) | Nihtahli Anand | 30 mins | 20 mins | Success with getting the scanner to output the double and string. Error with compiling with the runner file. |
-| **5. Story Segment 4** (`Pranika.java` inputs &amp; comments) | Pranika Keerti | 15 mins | 15 mins | Story resolution logic integrated smoothly. |
+| **5. Story Segment 4** (`Pranika.java` inputs &amp; comments) | Pranika Keerti | 20 mins | 30 mins | I had some issues with syntax, like forgeting the semi colons and closing bracket. Thus, it took sometime to fix and catch those errors  |
 | **6. Integration &amp; Testing** (Compiling class calls in `Runner.java`) | Team Lead &amp; All | 20 mins | 25 mins | Tested incrementally; resolved a minor method signature mismatch. |
 | **7. Final Documentation** (Terminal screenshots &amp; final `README.md`) | Team Lead | 15 mins | 15 mins | Screenshots taken directly from computer terminal output. |
